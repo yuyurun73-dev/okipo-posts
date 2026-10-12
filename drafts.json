@@ -31,5 +31,14 @@
   "fail_reason": "",
   "checked_at": "2026-10-12 15:10",
   "acct": "公式"
+ },
+ "98-n-alarm7": {
+  "acct": "朝よわ",
+  "publish_id": "p_inbox_url~v2.7695661568872220692",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1791786001.704618,
+  "sent_at": "2026-10-12 15:20",
+  "title": "朝弱すぎて遂に、、。",
+  "n": 9
  }
 }
