@@ -7,7 +7,7 @@
   "title": "朝起きれない人まだいますか？",
   "n": 11,
   "fail_reason": "",
-  "checked_at": "2026-10-12 15:10",
+  "checked_at": "2026-10-12 15:20",
   "acct": "公式"
  },
  "158-k-999e5": {
@@ -18,7 +18,7 @@
   "title": "今でもアラーム7個かけてる！",
   "n": 11,
   "fail_reason": "",
-  "checked_at": "2026-10-12 15:10",
+  "checked_at": "2026-10-12 15:20",
   "acct": "公式"
  },
  "159-m-2a458": {
@@ -29,25 +29,40 @@
   "title": "自分に甘い人が入れるべきアプリ",
   "n": 6,
   "fail_reason": "",
-  "checked_at": "2026-10-12 15:10",
+  "checked_at": "2026-10-12 15:20",
   "acct": "公式"
  },
  "98-n-alarm7": {
   "acct": "朝よわ",
   "publish_id": "p_inbox_url~v2.7695661568872220692",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1791786001.704618,
   "sent_at": "2026-10-12 15:20",
   "title": "朝弱すぎて遂に、、。",
-  "n": 9
+  "n": 9,
+  "fail_reason": "",
+  "checked_at": "2026-10-12 15:20"
  },
  "99-n-sokono": {
   "acct": "朝よわ",
   "publish_id": "p_inbox_url~v2.7695661878566995989",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1791786018.0490088,
   "sent_at": "2026-10-12 15:20",
   "title": "まだ二度寝中毒者いますか？",
-  "n": 11
+  "n": 11,
+  "fail_reason": "",
+  "checked_at": "2026-10-12 15:20"
+ },
+ "100-n-gachi": {
+  "acct": "朝よわ",
+  "publish_id": "p_inbox_url~v2.7695661805808551956",
+  "status": "SEND_TO_USER_INBOX",
+  "ts": 1791786034.1907132,
+  "sent_at": "2026-10-12 15:20",
+  "title": "朝が弱すぎる！",
+  "n": 10,
+  "fail_reason": "",
+  "checked_at": "2026-10-12 15:20"
  }
 }
