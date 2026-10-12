@@ -1,0 +1,3 @@
+OKIPO TikTok callback
+
+このページのアドレス欄のURL（code=...）をコピーしてClaudeに貼ってください。
