@@ -137,5 +137,14 @@
   "fail_reason": "spam_risk_too_many_pending_share: spam_risk_too_many_pending_share",
   "ts": 1791843581.1638432,
   "sent_at": "2026-10-13 07:19"
+ },
+ "249-k-a787e": {
+  "acct": "公式",
+  "publish_id": "p_inbox_url~v2.7695920444729493524",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1791846126.991389,
+  "sent_at": "2026-10-13 08:02",
+  "title": "二度寝ってまじで中毒",
+  "n": 6
  }
 }
