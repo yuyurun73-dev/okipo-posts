@@ -214,5 +214,14 @@
   "n": 8,
   "fail_reason": "",
   "checked_at": "2026-10-13 21:19"
+ },
+ "259-k-8dfbb": {
+  "acct": "朝よわ",
+  "publish_id": "p_inbox_url~v2.7696126406258247700",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1791894172.405947,
+  "sent_at": "2026-10-13 21:22",
+  "title": "こんなアラーム欲しい❓",
+  "n": 6
  }
 }
