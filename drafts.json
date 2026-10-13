@@ -291,5 +291,14 @@
   "n": 6,
   "fail_reason": "",
   "checked_at": "2026-10-13 21:34"
+ },
+ "mochi-18-z-b4942": {
+  "acct": "もちのう",
+  "publish_id": "p_inbox_url~v2.7696129553068312596",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1791894932.93153,
+  "sent_at": "2026-10-13 21:35",
+  "title": "こんなアプリ欲しい❓",
+  "n": 6
  }
 }
