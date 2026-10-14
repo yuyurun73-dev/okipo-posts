@@ -323,10 +323,12 @@
  },
  "mochi-23-y-ab6bd": {
   "acct": "もちのう",
-  "status": "FAILED",
-  "fail_reason": "spam_risk_too_many_pending_share: spam_risk_too_many_pending_share",
-  "ts": 1791895284.795058,
-  "sent_at": "2026-10-13 21:41"
+  "publish_id": "p_inbox_url~v2.7696398005389281300",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1791957368.898196,
+  "sent_at": "2026-10-14 14:56",
+  "title": "スクリーンタイム8時間超えてた人です",
+  "n": 9
  },
  "267-k-de566": {
   "acct": "朝よわ",
