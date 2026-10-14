@@ -407,5 +407,14 @@
   "fail_reason": "spam_risk_too_many_pending_share: spam_risk_too_many_pending_share",
   "ts": 1791980578.959306,
   "sent_at": "2026-10-14 21:22"
+ },
+ "277-k-f1716": {
+  "acct": "朝よわ",
+  "publish_id": "p_inbox_url~v2.7696497597078390805",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1791980602.183327,
+  "sent_at": "2026-10-14 21:23",
+  "title": "1限に間に合わない皆さん‼️",
+  "n": 11
  }
 }
