@@ -447,5 +447,14 @@
   "fail_reason": "spam_risk_too_many_pending_share: spam_risk_too_many_pending_share",
   "ts": 1791980655.935429,
   "sent_at": "2026-10-14 21:24"
+ },
+ "285-k-ecc02": {
+  "acct": "公式",
+  "publish_id": "p_inbox_url~v2.7696499356924708885",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1791980999.1742651,
+  "sent_at": "2026-10-14 21:29",
+  "title": "アラーム何個もかける皆さん‼️",
+  "n": 10
  }
 }
