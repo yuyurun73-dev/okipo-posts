@@ -469,5 +469,14 @@
   "n": 10,
   "fail_reason": "",
   "checked_at": "2026-10-14 21:30"
+ },
+ "289-m-ef5e4": {
+  "acct": "公式",
+  "publish_id": "p_inbox_url~v2.7696639229601859605",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1792013497.031345,
+  "sent_at": "2026-10-15 06:31",
+  "title": "1限ある大学生が入れてるアプリ",
+  "n": 6
  }
 }
