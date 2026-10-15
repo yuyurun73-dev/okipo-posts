@@ -601,5 +601,14 @@
   "n": 3,
   "fail_reason": "",
   "checked_at": "2026-10-16 00:33"
+ },
+ "294-k-bc06c": {
+  "acct": "公式",
+  "publish_id": "p_inbox_url~v2.7697010298885048340",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1792099898.838572,
+  "sent_at": "2026-10-16 06:31",
+  "title": "アラーム何個もかける皆さん‼️",
+  "n": 10
  }
 }
