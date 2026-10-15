@@ -589,6 +589,17 @@
   "title": "ドーパミンの出どころ ティアリスト",
   "n": 3,
   "fail_reason": "",
-  "checked_at": "2026-10-16 00:29"
+  "checked_at": "2026-10-16 00:33"
+ },
+ "mochi-900-meme-cortisol": {
+  "acct": "user09",
+  "publish_id": "p_inbox_url~v2.7696917951056054292",
+  "status": "SEND_TO_USER_INBOX",
+  "ts": 1792078385.4888499,
+  "sent_at": "2026-10-16 00:33",
+  "title": "高コルチゾールの解決策",
+  "n": 3,
+  "fail_reason": "",
+  "checked_at": "2026-10-16 00:33"
  }
 }
