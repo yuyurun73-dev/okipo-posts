@@ -579,5 +579,16 @@
   "n": 11,
   "fail_reason": "",
   "checked_at": "2026-10-15 18:32"
+ },
+ "mochi-901-meme-dopamine": {
+  "acct": "user09",
+  "publish_id": "p_inbox_url~v2.7696916576041273365",
+  "status": "SEND_TO_USER_INBOX",
+  "ts": 1792078128.9124658,
+  "sent_at": "2026-10-16 00:28",
+  "title": "ドーパミンの出どころ ティアリスト",
+  "n": 3,
+  "fail_reason": "",
+  "checked_at": "2026-10-16 00:29"
  }
 }
