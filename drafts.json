@@ -403,10 +403,12 @@
  },
  "mochi-27-y-5da42": {
   "acct": "もちのう",
-  "status": "FAILED",
-  "fail_reason": "spam_risk_too_many_pending_share: spam_risk_too_many_pending_share",
-  "ts": 1791980578.959306,
-  "sent_at": "2026-10-14 21:22"
+  "publish_id": "p_inbox_url~v2.7697010392563894293",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1792099952.9723709,
+  "sent_at": "2026-10-16 06:32",
+  "title": "あと1本が止まらなすぎて",
+  "n": 11
  },
  "277-k-f1716": {
   "acct": "朝よわ",
