@@ -593,7 +593,7 @@
   "title": "ドーパミンの出どころ ティアリスト",
   "n": 3,
   "fail_reason": "",
-  "checked_at": "2026-10-16 10:55"
+  "checked_at": "2026-10-16 10:59"
  },
  "mochi-900-meme-cortisol": {
   "acct": "user09",
@@ -604,24 +604,39 @@
   "title": "高コルチゾールの解決策",
   "n": 3,
   "fail_reason": "",
-  "checked_at": "2026-10-16 10:55"
+  "checked_at": "2026-10-16 10:59"
  },
  "mochi-902-meme-mental": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7697078587102644231",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792115944.5995252,
   "sent_at": "2026-10-16 10:59",
   "title": "メンタルマキシングのティアリスト",
-  "n": 2
+  "n": 2,
+  "fail_reason": "",
+  "checked_at": "2026-10-16 10:59"
  },
  "mochi-903-meme-choshi": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7697076537383880720",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792115959.081751,
   "sent_at": "2026-10-16 10:59",
   "title": "なんで今日こんなに調子いいの？",
-  "n": 1
+  "n": 1,
+  "fail_reason": "",
+  "checked_at": "2026-10-16 10:59"
+ },
+ "mochi-904-meme-kenkou": {
+  "acct": "user09",
+  "publish_id": "p_inbox_url~v2.7697079106327971847",
+  "status": "SEND_TO_USER_INBOX",
+  "ts": 1792115974.001042,
+  "sent_at": "2026-10-16 10:59",
+  "title": "洗脳された「健康」VS 本当の健康",
+  "n": 2,
+  "fail_reason": "",
+  "checked_at": "2026-10-16 10:59"
  }
 }
