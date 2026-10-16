@@ -795,5 +795,12 @@
   "sent_at": "2026-10-17 06:33",
   "title": "自称ドパガキ女です",
   "n": 11
+ },
+ "mochi-45-o-a6020": {
+  "acct": "もちのう",
+  "status": "FAILED",
+  "fail_reason": "spam_risk_too_many_pending_share: spam_risk_too_many_pending_share",
+  "ts": 1792186607.489738,
+  "sent_at": "2026-10-17 06:36"
  }
 }
