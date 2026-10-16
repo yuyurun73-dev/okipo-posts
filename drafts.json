@@ -638,5 +638,14 @@
   "n": 2,
   "fail_reason": "",
   "checked_at": "2026-10-16 10:59"
+ },
+ "305-l-listc": {
+  "acct": "公式",
+  "publish_id": "p_inbox_url~v2.7697235253865449493",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1792152283.738755,
+  "sent_at": "2026-10-16 21:04",
+  "title": "アラーム5個かけても起きれない理由",
+  "n": 5
  }
 }
