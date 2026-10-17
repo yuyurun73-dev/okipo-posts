@@ -593,7 +593,7 @@
   "title": "ドーパミンの出どころ ティアリスト",
   "n": 3,
   "fail_reason": "",
-  "checked_at": "2026-10-17 12:10"
+  "checked_at": "2026-10-17 12:34"
  },
  "mochi-900-meme-cortisol": {
   "acct": "user09",
@@ -604,7 +604,7 @@
   "title": "高コルチゾールの解決策",
   "n": 3,
   "fail_reason": "",
-  "checked_at": "2026-10-17 12:10"
+  "checked_at": "2026-10-17 12:34"
  },
  "mochi-902-meme-mental": {
   "acct": "user09",
@@ -615,7 +615,7 @@
   "title": "メンタルマキシングのティアリスト",
   "n": 2,
   "fail_reason": "",
-  "checked_at": "2026-10-17 12:10"
+  "checked_at": "2026-10-17 12:34"
  },
  "mochi-903-meme-choshi": {
   "acct": "user09",
@@ -626,7 +626,7 @@
   "title": "なんで今日こんなに調子いいの？",
   "n": 1,
   "fail_reason": "",
-  "checked_at": "2026-10-17 12:10"
+  "checked_at": "2026-10-17 12:34"
  },
  "mochi-904-meme-kenkou": {
   "acct": "user09",
@@ -637,7 +637,7 @@
   "title": "洗脳された「健康」VS 本当の健康",
   "n": 2,
   "fail_reason": "",
-  "checked_at": "2026-10-17 12:10"
+  "checked_at": "2026-10-17 12:34"
  },
  "305-l-listc": {
   "acct": "公式",
@@ -806,37 +806,56 @@
  "mochi-948-meme-r51": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7697474321651992597",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792207983.407048,
   "sent_at": "2026-10-17 12:33",
   "title": "メンタル安定、スマホのない人生",
-  "n": 2
+  "n": 2,
+  "fail_reason": "",
+  "checked_at": "2026-10-17 12:34"
  },
  "mochi-949-meme-r50": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7697474217633368085",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792207998.44293,
   "sent_at": "2026-10-17 12:33",
   "title": "ブレインマキシング",
-  "n": 2
+  "n": 2,
+  "fail_reason": "",
+  "checked_at": "2026-10-17 12:34"
  },
  "mochi-950-meme-r49": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7697474343467091989",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792208013.9229708,
   "sent_at": "2026-10-17 12:33",
   "title": "高コルチゾール、残業",
-  "n": 4
+  "n": 4,
+  "fail_reason": "",
+  "checked_at": "2026-10-17 12:34"
  },
  "mochi-951-meme-r48": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7697474525897803797",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792208030.138859,
   "sent_at": "2026-10-17 12:33",
   "title": "メンタルマキシング",
-  "n": 4
+  "n": 4,
+  "fail_reason": "",
+  "checked_at": "2026-10-17 12:34"
+ },
+ "mochi-952-meme-r47": {
+  "acct": "user09",
+  "publish_id": "p_inbox_url~v2.7697474525897918485",
+  "status": "SEND_TO_USER_INBOX",
+  "ts": 1792208044.969483,
+  "sent_at": "2026-10-17 12:34",
+  "title": "メンタルマキシング",
+  "n": 2,
+  "fail_reason": "",
+  "checked_at": "2026-10-17 12:34"
  }
 }
