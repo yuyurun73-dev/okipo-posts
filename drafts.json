@@ -736,7 +736,7 @@
   "title": "いまでも週5で二度寝してる",
   "n": 10,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "313-k-5e9f8": {
   "acct": "公式",
@@ -747,7 +747,7 @@
   "title": "1限に間に合わない皆さん‼️",
   "n": 10,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "299-k-d5cd7": {
   "acct": "公式",
@@ -758,7 +758,7 @@
   "title": "社会人の二度寝対策",
   "n": 11,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "296-k-c21c7": {
   "acct": "朝よわ",
@@ -769,7 +769,7 @@
   "title": "アラーム7個かけたのに寝坊した事件",
   "n": 10,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "315-k-f4406": {
   "acct": "朝よわ",
@@ -780,7 +780,7 @@
   "title": "二度寝やめたすぎて作った",
   "n": 10,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "226-k-8dde9": {
   "acct": "朝よわ",
@@ -791,7 +791,7 @@
   "title": "二度寝のプロが作ったアラーム",
   "n": 9,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "mochi-34-m-2a8d3": {
   "acct": "もちのう",
@@ -802,7 +802,7 @@
   "title": "自称ドパガキ女です",
   "n": 11,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "mochi-45-o-a6020": {
   "acct": "もちのう",
@@ -813,7 +813,7 @@
   "title": "スクリーンタイムやばすぎて遂に",
   "n": 8,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:15"
+  "checked_at": "2026-10-18 20:57"
  },
  "jk-B-asa-tomare": {
   "acct": "朝よわ",
@@ -824,7 +824,7 @@
   "title": "アラーム6個→1個になった話",
   "n": 8,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "jk-E-sumaho-tomare": {
   "acct": "もちのう",
@@ -835,7 +835,7 @@
   "title": "スマホ1日13時間＝1年で198日",
   "n": 8,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "mochi-908-meme-r04": {
   "acct": "user09",
@@ -857,7 +857,7 @@
   "title": "メンタルマキシングのティアリスト",
   "n": 3,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "jk-K-okipo-ezu": {
   "acct": "公式",
@@ -868,7 +868,7 @@
   "title": "絶対に二度寝しない？アラームアプリ",
   "n": 6,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "jk-L-asa-houkoku": {
   "acct": "朝よわ",
@@ -879,7 +879,7 @@
   "title": "二度寝が好きな学生の皆さんにご報告です",
   "n": 6,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "mochi-880-meme-r04s": {
   "acct": "user09",
@@ -890,7 +890,7 @@
   "title": "ドーパミンの出どころティアリスト",
   "n": 3,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "jk-M-sumaho-osusume": {
   "acct": "もちのう",
@@ -901,51 +901,61 @@
   "title": "まだあまり知られていないおすすめロックアプリ",
   "n": 9,
   "fail_reason": "",
-  "checked_at": "2026-10-18 12:35"
+  "checked_at": "2026-10-18 20:57"
  },
  "mochi-881-meme-r06v": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7697916070594545684",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792310791.7586272,
   "sent_at": "2026-10-18 17:06",
   "title": "ドーパミンの出どころ これで全部",
-  "n": 4
+  "n": 4,
+  "fail_reason": "",
+  "checked_at": "2026-10-18 20:57"
  },
  "mochi-882-meme-r15v": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7697916732585412628",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792310941.20106,
   "sent_at": "2026-10-18 17:09",
   "title": "なんで今こんなに人生いい感じなの？",
-  "n": 3
+  "n": 3,
+  "fail_reason": "",
+  "checked_at": "2026-10-18 20:57"
  },
  "mochi-883-meme-r15v": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7697917910698231829",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792311203.5565178,
   "sent_at": "2026-10-18 17:13",
   "title": "なんで今こんなに人生いい感じなの？",
-  "n": 3
+  "n": 3,
+  "fail_reason": "",
+  "checked_at": "2026-10-18 20:57"
  },
  "mochi-884-meme-r15v": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7697918559817025557",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792311351.67211,
   "sent_at": "2026-10-18 17:15",
   "title": "なんで今こんなに人生いい感じなの？",
-  "n": 3
+  "n": 3,
+  "fail_reason": "",
+  "checked_at": "2026-10-18 20:57"
  },
  "mochi-885-meme-r10v2": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7697974558686627861",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792324447.523478,
   "sent_at": "2026-10-18 20:54",
   "title": "「寝ても疲れてる」「何しても楽しくない」それ全部、高コルチゾールかも",
-  "n": 4
+  "n": 4,
+  "fail_reason": "",
+  "checked_at": "2026-10-18 20:57"
  }
 }
