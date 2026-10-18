@@ -880,12 +880,5 @@
   "n": 6,
   "fail_reason": "",
   "checked_at": "2026-10-18 12:00"
- },
- "mochi-880-meme-r04s": {
-  "acct": "user09",
-  "status": "FAILED",
-  "fail_reason": "spam_risk_too_many_pending_share: spam_risk_too_many_pending_share",
-  "ts": 1792292261.006442,
-  "sent_at": "2026-10-18 11:57"
  }
 }
