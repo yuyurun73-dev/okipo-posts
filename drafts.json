@@ -880,5 +880,14 @@
   "n": 6,
   "fail_reason": "",
   "checked_at": "2026-10-18 12:00"
+ },
+ "mochi-880-meme-r04s": {
+  "acct": "user09",
+  "publish_id": "p_inbox_url~v2.7697840237669648405",
+  "status": "PROCESSING_UPLOAD",
+  "ts": 1792293239.6251788,
+  "sent_at": "2026-10-18 12:13",
+  "title": "ドーパミンの出どころティアリスト",
+  "n": 3
  }
 }
