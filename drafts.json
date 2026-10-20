@@ -1067,7 +1067,7 @@
  "mochi-893-meme-killv3": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7698672427765090325",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792486869.010858,
   "sent_at": "2026-10-20 18:01",
   "title": "メンタルを壊す5つのこと",
