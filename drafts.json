@@ -1081,12 +1081,5 @@
   "sent_at": "2026-10-20 18:15",
   "title": "メンタルを壊す5つのこと",
   "n": 7
- },
- "mochi-895-meme-killv5": {
-  "acct": "user09",
-  "status": "FAILED",
-  "fail_reason": "spam_risk_too_many_pending_share: spam_risk_too_many_pending_share",
-  "ts": 1792488014.7238321,
-  "sent_at": "2026-10-20 18:20"
  }
 }
