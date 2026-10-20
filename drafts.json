@@ -1058,7 +1058,7 @@
  "mochi-892-meme-killv2": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7698670718376019988",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792486538.621783,
   "sent_at": "2026-10-20 17:55",
   "title": "メンタルを壊す5つのこと",
