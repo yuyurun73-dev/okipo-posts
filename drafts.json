@@ -1076,7 +1076,7 @@
  "mochi-894-meme-killv4": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7698675858328913941",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792487709.929045,
   "sent_at": "2026-10-20 18:15",
   "title": "メンタルを壊す5つのこと",
