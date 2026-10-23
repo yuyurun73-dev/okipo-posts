@@ -1055,7 +1055,7 @@
   "title": "メンタルを壊す5つのこと",
   "n": 7,
   "fail_reason": "",
-  "checked_at": "2026-10-22 11:29"
+  "checked_at": "2026-10-23 09:31"
  },
  "mochi-892-meme-killv2": {
   "acct": "user09",
@@ -1066,7 +1066,7 @@
   "title": "メンタルを壊す5つのこと",
   "n": 7,
   "fail_reason": "",
-  "checked_at": "2026-10-22 11:29"
+  "checked_at": "2026-10-23 09:31"
  },
  "mochi-893-meme-killv3": {
   "acct": "user09",
@@ -1077,7 +1077,7 @@
   "title": "メンタルを壊す5つのこと",
   "n": 7,
   "fail_reason": "",
-  "checked_at": "2026-10-22 11:29"
+  "checked_at": "2026-10-23 09:31"
  },
  "mochi-894-meme-killv4": {
   "acct": "user09",
@@ -1088,7 +1088,7 @@
   "title": "メンタルを壊す5つのこと",
   "n": 7,
   "fail_reason": "",
-  "checked_at": "2026-10-22 11:29"
+  "checked_at": "2026-10-23 09:31"
  },
  "mochi-895-meme-killv5": {
   "acct": "user09",
@@ -1099,7 +1099,7 @@
   "title": "メンタルを壊す5つのこと",
   "n": 7,
   "fail_reason": "",
-  "checked_at": "2026-10-22 11:29"
+  "checked_at": "2026-10-23 09:31"
  },
  "jk-S-sumaho-ggnote3": {
   "acct": "もちのう",
@@ -1110,7 +1110,7 @@
   "title": "そこのあなた、ちょっと止まってくれませんか",
   "n": 10,
   "fail_reason": "",
-  "checked_at": "2026-10-22 11:29"
+  "checked_at": "2026-10-23 09:31"
  },
  "mochi-897-meme-otv": {
   "acct": "user09",
@@ -1121,7 +1121,7 @@
   "title": "高コルチゾール or スマホのない人生",
   "n": 5,
   "fail_reason": "",
-  "checked_at": "2026-10-22 11:29"
+  "checked_at": "2026-10-23 09:31"
  },
  "jk-U-sumaho-st10": {
   "acct": "もちのう",
@@ -1132,7 +1132,7 @@
   "title": "スクリーンタイム10時間超えの人絶対見て",
   "n": 10,
   "fail_reason": "",
-  "checked_at": "2026-10-22 11:29"
+  "checked_at": "2026-10-23 09:31"
  },
  "jk-W-sumaho-maratan": {
   "acct": "もちのう",
@@ -1143,33 +1143,39 @@
   "title": "1日13時間スマホ見てる女子高生なんですけど",
   "n": 13,
   "fail_reason": "",
-  "checked_at": "2026-10-22 11:29"
+  "checked_at": "2026-10-23 09:31"
  },
  "mochi-900-meme-lifev": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7699316503245588487",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792636877.88932,
   "sent_at": "2026-10-22 11:41",
   "title": "ライフマキシング ティアリスト",
-  "n": 10
+  "n": 10,
+  "fail_reason": "",
+  "checked_at": "2026-10-23 09:31"
  },
  "mochi-901-meme-lcv": {
   "acct": "user09",
   "publish_id": "p_inbox_url~v2.7699499446022801428",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792679433.0621629,
   "sent_at": "2026-10-22 23:30",
   "title": "人生の設計図 完全ガイド",
-  "n": 6
+  "n": 6,
+  "fail_reason": "",
+  "checked_at": "2026-10-23 09:31"
  },
  "jk-X-sumaho-maratan2": {
   "acct": "もちのう",
   "publish_id": "p_inbox_url~v2.7699654020511827976",
-  "status": "PROCESSING_UPLOAD",
+  "status": "SEND_TO_USER_INBOX",
   "ts": 1792715418.28817,
   "sent_at": "2026-10-23 09:30",
   "title": "そこのかわいいお姉さん方、スクリーンタイム1日何時間ですか",
-  "n": 11
+  "n": 11,
+  "fail_reason": "",
+  "checked_at": "2026-10-23 09:31"
  }
 }
